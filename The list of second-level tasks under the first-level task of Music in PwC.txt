@@ -1,0 +1,15 @@
+Cover song identification
+Detection Of Instrumentals Musical Tracks
+Drum Transcription
+Melody Extraction
+Music Auto-Tagging
+Music Classification
+Music Emotion Recognition
+Music Generation
+Music Genre Recognition
+Music Information Retrieval
+Music Modeling
+Music Source Separation
+Music Transcription
+Piano Music Modeling
+Recognizing Seven Different Dastgahs Of Iranian Classical Music
