@@ -46,8 +46,3 @@ python analysis.py
 - `arxiv_coverage.csv`: selected arXiv-category coverage values for Appendix
   B, Table B1.
 - `topic_search_terms.csv`: search terms listed in Appendix C.
-
-Only fields used in the article are included. Full Web of Science exports,
-original Papers with Code records, notebooks, and local data-cleaning scripts
-are excluded because they are unnecessary for generating the reported tables
-and figures, and some source records may have redistribution restrictions.
