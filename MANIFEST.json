@@ -1,0 +1,126 @@
+{
+  "data_version": "Final manuscript dataset, 19 October 2026",
+  "files": {
+    "data/pwc_publications.csv.gz": {
+      "rows": 325674,
+      "columns": [
+        "arxiv_id",
+        "date",
+        "tasks",
+        "methods",
+        "doi"
+      ],
+      "sha256": "0f258d17795a5a6067a3ebce516f65485443cdc7d4d076a5404f7d2f13f54e31",
+      "source_files": [
+        "reproduction_20260930/pwc_new_from_raw_and_historical_doi.csv"
+      ],
+      "description": "Archived analytic PwC records with frozen historical DOI enrichment; only identifiers, dates, tasks and methods retained. All 325,674 analytic input records and their original order retained."
+    },
+    "data/pwc_snapshot_dates.csv.gz": {
+      "rows": 303561,
+      "columns": [
+        "arxiv_id",
+        "date"
+      ],
+      "sha256": "f65833dcc63252938fb55370a72972fbf0e668b850d8d80f511ff0809a1473b3",
+      "source_files": [
+        "reproduction_20260930/paperswithabstract_compact.csv"
+      ],
+      "description": "arXiv-linked records from the complete archived PwC snapshot, used exclusively for Figure 1 and Table B1; the DOI-enriched analytic input is a separate source population. Non-arXiv records are irrelevant to both outputs and omitted here."
+    },
+    "data/pwc_identifier_aliases.csv.gz": {
+      "rows": 260,
+      "columns": [
+        "arxiv_id",
+        "doi"
+      ],
+      "sha256": "93602b29be801bbd8bd29c1bf7a6fbbaf108bfa42ae9682b38badc522263d060",
+      "source_files": [
+        "pwa1.csv",
+        "../pwa.csv"
+      ],
+      "description": "Only distinct historical arXiv–DOI aliases that add a key not already attached to the same arXiv publication in the primary input. Redundant aliases and aliases outside the analytic PwC record set are omitted."
+    },
+    "data/lis_references.csv.gz": {
+      "rows": 1021023,
+      "columns": [
+        "cited_doi",
+        "citing_doi",
+        "cited_arxiv_id",
+        "journal",
+        "citing_year",
+        "cited_year",
+        "fields_of_study"
+      ],
+      "sha256": "8d3b224b5793360c6fd644492bac102302811323313a97086a53db743e5be1b1",
+      "source_files": [
+        "wos1016_regex.csv",
+        "revision_20261008/year_corrections.csv"
+      ],
+      "description": "Final verified bibliographic reference metadata. Cited publication years use the adjudicated values. No age filtering, reference deduplication, PwC matching or task allocation is precomputed in this input."
+    },
+    "data/topic_search.csv.gz": {
+      "rows": 8139,
+      "columns": [
+        "year",
+        "doi"
+      ],
+      "sha256": "c2130e4b3ac94eeb1ab517732ecc9e033b2dc5e9146c9f2502df6fe98feb8525",
+      "source_files": [
+        "reproduction_20260930/retrieval_0711_raw_records.csv"
+      ],
+      "description": "DOIs and years from the archived WoS topic-search export. Matching to the analytic pool, deduplication and annual shares are recomputed by the program."
+    },
+    "data/task_hierarchy.csv.gz": {
+      "rows": 4662,
+      "columns": [
+        "category",
+        "task",
+        "sub_1",
+        "sub_2",
+        "sub_3",
+        "sub_4",
+        "sub_5"
+      ],
+      "sha256": "b5ab9a547b154f055889d5e6e2ae0a546238aa7217580ae79161a38c2229805b",
+      "source_files": [
+        "data_unique.csv"
+      ],
+      "description": "Complete archived hierarchy paths, including repeated paths; column order is first level, second level, then descendant columns."
+    },
+    "data/method_hierarchy.csv.gz": {
+      "rows": 2588,
+      "columns": [
+        "level1",
+        "level2",
+        "level3"
+      ],
+      "sha256": "08f427b12a02ce1c22f0dc77b0c42b97a64a2190bece341296f8ae9593ded2a5",
+      "source_files": [
+        "method.csv"
+      ],
+      "description": "Complete archived hierarchy paths, including repeated paths; column order is first level, second level, then descendant columns."
+    },
+    "data/arxiv_categories.csv.gz": {
+      "rows": 250247,
+      "columns": [
+        "id",
+        "categories"
+      ],
+      "sha256": "c9e55872275c866a871f45809e09588c74177548b0198779cfc7ec9aa698c1eb",
+      "source_files": [
+        "arxiv.csv"
+      ],
+      "description": "Only archived records eligible for Table B1: identifier years 2010–2022 with at least one of the six selected categories. Full category-membership strings retained; no aggregate coverage counts supplied."
+    },
+    "data/study_annotations.json": {
+      "sha256": "3521f3845bb1740c93d3632ed15774c3173aca3e8efbfa09a007b4631e08e25a",
+      "source_files": [
+        "journal_classify.csv",
+        "reproduction_20260930/journal_list_classified_supplement_S1.csv",
+        "Main Document1019.docx"
+      ],
+      "description": "Journal classifications, curated literature table, Appendix A display selections and WoS retrieval expression. No obsolete model flag or quantitative outcome is an input."
+    }
+  }
+}

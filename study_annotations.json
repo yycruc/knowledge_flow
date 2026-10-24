@@ -1,0 +1,1038 @@
+{
+  "journals": [
+    {
+      "journal": "aslib journal of information management",
+      "group": "Core LIS / information science",
+      "criterion": "Core LIS subfield: information science.",
+      "asjc_codes": [
+        "3309",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "college & research libraries",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "data base for advances in information systems",
+      "group": "Boundary: MIS / information systems",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "1705",
+        "1404"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "data technologies and applications",
+      "group": "Boundary: data / CS-oriented LIS",
+      "criterion": "Boundary by information-retrieval/computing orientation; used in conservative CS-boundary sensitivity.",
+      "asjc_codes": [
+        "3309",
+        "1710"
+      ],
+      "exclude_cs_ir": true,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "electronic library",
+      "group": "Core LIS / library technology",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309",
+        "1706"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "ethics and information technology",
+      "group": "Boundary: information ethics / ICT",
+      "criterion": "Adjacent communication, policy, social-information, or public-sector information venue.",
+      "asjc_codes": [
+        "3309",
+        "1706"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "government information quarterly",
+      "group": "Boundary: public-sector information",
+      "criterion": "Adjacent communication, policy, social-information, or public-sector information venue.",
+      "asjc_codes": [
+        "3308",
+        "3309",
+        "3312"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "health information and libraries journal",
+      "group": "Core LIS / medical librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3605",
+        "3309",
+        "2718"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "informacao & sociedade-estudos",
+      "group": "Core LIS / information science",
+      "criterion": "Core LIS subfield: information science.",
+      "asjc_codes": [],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "informacios tarsadalom",
+      "group": "Boundary: information society / ICT",
+      "criterion": "Adjacent communication, policy, social-information, or public-sector information venue.",
+      "asjc_codes": [
+        "3315"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "information & culture",
+      "group": "Core LIS / information history",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309",
+        "1202",
+        "1206"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "information & management",
+      "group": "Boundary: MIS / information systems",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "1802",
+        "1710",
+        "1404"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "information and organization",
+      "group": "Boundary: MIS / organization studies",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "1405",
+        "3309",
+        "1407",
+        "1710",
+        "1404"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "information development",
+      "group": "Core LIS / information science",
+      "criterion": "Core LIS subfield: information science.",
+      "asjc_codes": [
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "information processing & management",
+      "group": "Boundary: IR / CS-oriented LIS",
+      "criterion": "Boundary by information-retrieval/computing orientation; used in conservative CS-boundary sensitivity.",
+      "asjc_codes": [
+        "3309",
+        "1803",
+        "1706",
+        "2214",
+        "1710"
+      ],
+      "exclude_cs_ir": true,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "information research-an international electronic journal",
+      "group": "Core LIS / information science",
+      "criterion": "Core LIS subfield: information science.",
+      "asjc_codes": [],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "information society",
+      "group": "Boundary: information society / ICT",
+      "criterion": "Adjacent communication, policy, social-information, or public-sector information venue.",
+      "asjc_codes": [
+        "3320",
+        "1710",
+        "3316",
+        "1404"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "information systems journal",
+      "group": "Boundary: MIS / information systems",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "1705",
+        "1710",
+        "1712"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "information systems research",
+      "group": "Boundary: MIS / information systems",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "3309",
+        "1802",
+        "1705",
+        "1710",
+        "1404"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "information technology & management",
+      "group": "Boundary: MIS / IT management",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "1401",
+        "3315",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "information technology & people",
+      "group": "Boundary: MIS / IT management",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "3309",
+        "1706",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "information technology and libraries",
+      "group": "Core LIS / library technology",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "international journal of computer-supported collaborative learning",
+      "group": "Boundary: computing / educational technology",
+      "criterion": "Boundary by information-retrieval/computing orientation; used in conservative CS-boundary sensitivity.",
+      "asjc_codes": [
+        "1709",
+        "3304"
+      ],
+      "exclude_cs_ir": true,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "international journal of geographical information science",
+      "group": "Boundary: geoinformation / GIS",
+      "criterion": "Boundary by information-retrieval/computing orientation; used in conservative CS-boundary sensitivity.",
+      "asjc_codes": [
+        "3309",
+        "3305",
+        "1710"
+      ],
+      "exclude_cs_ir": true,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "international journal of information management",
+      "group": "Boundary: information management / MIS",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "3309",
+        "1705",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "investigacion bibliotecologica",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "journal of academic librarianship",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309",
+        "3304"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "journal of computer-mediated communication",
+      "group": "Boundary: communication / ICT",
+      "criterion": "Adjacent communication, policy, social-information, or public-sector information venue.",
+      "asjc_codes": [
+        "1705",
+        "1706"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "journal of documentation",
+      "group": "Core LIS / information science",
+      "criterion": "Core LIS subfield: information science.",
+      "asjc_codes": [
+        "3309",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "journal of enterprise information management",
+      "group": "Boundary: MIS / IT management",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "1710",
+        "1405",
+        "1800"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "journal of global information management",
+      "group": "Boundary: MIS / information systems",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "1802",
+        "1803",
+        "1408",
+        "1706",
+        "1403"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "journal of global information technology management",
+      "group": "Boundary: MIS / IT management",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "1802",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "journal of health communication",
+      "group": "Boundary: health communication",
+      "criterion": "Health-information or health-communication boundary following LIS subfield distinctions that separate health information.",
+      "asjc_codes": [
+        "3309",
+        "2739",
+        "3315",
+        "3306"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "journal of information science",
+      "group": "Core LIS / information science",
+      "criterion": "Core LIS subfield: information science.",
+      "asjc_codes": [
+        "3309",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "journal of information technology",
+      "group": "Boundary: MIS / IT management",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "3309",
+        "1408",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "journal of informetrics",
+      "group": "Core LIS / scientometrics",
+      "criterion": "Core LIS subfield: scientometrics/informetrics.",
+      "asjc_codes": [
+        "3309",
+        "1706"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "journal of knowledge management",
+      "group": "Boundary: knowledge management",
+      "criterion": "Adjacent knowledge-management venue; retained as a separate boundary group rather than merged with library/information-science core.",
+      "asjc_codes": [],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "journal of librarianship and information science",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "journal of management information systems",
+      "group": "Boundary: MIS / information systems",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "1802",
+        "1803",
+        "1706",
+        "1404"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "journal of organizational and end user computing",
+      "group": "Boundary: MIS / end-user computing",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "1408",
+        "1706",
+        "1709"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "journal of scholarly publishing",
+      "group": "Core LIS / scholarly communication",
+      "criterion": "Adjacent communication, policy, social-information, or public-sector information venue.",
+      "asjc_codes": [
+        "2214",
+        "3304"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "journal of strategic information systems",
+      "group": "Boundary: MIS / information systems",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "1802",
+        "1710",
+        "1404"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "journal of the american medical informatics association",
+      "group": "Boundary: health informatics",
+      "criterion": "Health-information or health-communication boundary following LIS subfield distinctions that separate health information.",
+      "asjc_codes": [],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "journal of the association for information science and technology",
+      "group": "Core LIS / information science",
+      "criterion": "Core LIS subfield: information science.",
+      "asjc_codes": [
+        "3309",
+        "1802",
+        "1705",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "journal of the association for information systems",
+      "group": "Boundary: MIS / information systems",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "1706",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "journal of the australian library and information association",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "journal of the medical library association",
+      "group": "Core LIS / medical librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "knowledge management research & practice",
+      "group": "Boundary: knowledge management",
+      "criterion": "Adjacent knowledge-management venue; retained as a separate boundary group rather than merged with library/information-science core.",
+      "asjc_codes": [
+        "1405",
+        "3309",
+        "1403",
+        "1404"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "knowledge organization",
+      "group": "Core LIS / knowledge organization",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "learned publishing",
+      "group": "Core LIS / scholarly communication",
+      "criterion": "Adjacent communication, policy, social-information, or public-sector information venue.",
+      "asjc_codes": [
+        "3315",
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "library & information science research",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "library and information science",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "library collections acquisitions & technical services",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "library hi tech",
+      "group": "Core LIS / library technology",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "library quarterly",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "library resources & technical services",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "library trends",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "libri-international journal of libraries and information studies",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "malaysian journal of library & information science",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "mis quarterly",
+      "group": "Boundary: MIS / information systems",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "mis quarterly executive",
+      "group": "Boundary: MIS / information systems",
+      "criterion": "Boundary by Huang/Abrizah-style MIS/ISys distinction; supported by title/scope and ASJC where available.",
+      "asjc_codes": [
+        "2002"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": true
+    },
+    {
+      "journal": "online information review",
+      "group": "Boundary: IR / digital information",
+      "criterion": "Boundary by information-retrieval/computing orientation; used in conservative CS-boundary sensitivity.",
+      "asjc_codes": [
+        "3309",
+        "1706",
+        "1710"
+      ],
+      "exclude_cs_ir": true,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "portal-libraries and the academy",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "profesional de la informacion",
+      "group": "Core LIS / information science",
+      "criterion": "Core LIS subfield: information science.",
+      "asjc_codes": [
+        "3309",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "qualitative health research",
+      "group": "Boundary: health / social science",
+      "criterion": "Health-information or health-communication boundary following LIS subfield distinctions that separate health information.",
+      "asjc_codes": [
+        "2739"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "reference & user services quarterly",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "reference services review",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "research evaluation",
+      "group": "Core LIS / scientometrics",
+      "criterion": "Core LIS subfield: scientometrics/informetrics.",
+      "asjc_codes": [
+        "3309",
+        "3304"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "restaurator-international journal for the preservation of library and archival material",
+      "group": "Core LIS / preservation",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "revista espanola de documentacion cientifica",
+      "group": "Core LIS / scientometrics",
+      "criterion": "Core LIS subfield: scientometrics/informetrics.",
+      "asjc_codes": [
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "scientometrics",
+      "group": "Core LIS / scientometrics",
+      "criterion": "Core LIS subfield: scientometrics/informetrics.",
+      "asjc_codes": [
+        "3309",
+        "1706",
+        "3300"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "serials review",
+      "group": "Core LIS / scholarly communication",
+      "criterion": "Adjacent communication, policy, social-information, or public-sector information venue.",
+      "asjc_codes": [
+        "3309"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "social science computer review",
+      "group": "Boundary: social computing",
+      "criterion": "Boundary by information-retrieval/computing orientation; used in conservative CS-boundary sensitivity.",
+      "asjc_codes": [
+        "3308",
+        "3309",
+        "1706",
+        "3300"
+      ],
+      "exclude_cs_ir": true,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "social science information sur les sciences sociales",
+      "group": "Boundary: social sciences",
+      "criterion": "Adjacent communication, policy, social-information, or public-sector information venue.",
+      "asjc_codes": [],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "telecommunications policy",
+      "group": "Boundary: communication / ICT policy",
+      "criterion": "Adjacent communication, policy, social-information, or public-sector information venue.",
+      "asjc_codes": [
+        "1710",
+        "3315",
+        "3309",
+        "2002",
+        "2308",
+        "1404"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "telematics and informatics",
+      "group": "Boundary: communication / ICT policy",
+      "criterion": "Adjacent communication, policy, social-information, or public-sector information venue.",
+      "asjc_codes": [
+        "2208",
+        "1705"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "transinformacao",
+      "group": "Core LIS / information science",
+      "criterion": "Core LIS subfield: information science.",
+      "asjc_codes": [
+        "3309",
+        "1209",
+        "1710"
+      ],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    },
+    {
+      "journal": "zeitschrift fur bibliothekswesen und bibliographie",
+      "group": "Core LIS / librarianship",
+      "criterion": "Core LIS subfield: librarianship, scholarly communication, library technology, preservation, or knowledge organization.",
+      "asjc_codes": [],
+      "exclude_cs_ir": false,
+      "exclude_mis_is": false
+    }
+  ],
+  "display_tables": {
+    "Table1_literature": [
+      [
+        "Study",
+        "Knowledge entities",
+        "Identification approach",
+        "Main analysis"
+      ],
+      [
+        "Ding et al. (2013)",
+        "Genes, drugs, and diseases",
+        "Dictionary matching in titles and abstracts",
+        "Entity citation networks and centrality analysis"
+      ],
+      [
+        "Pan et al. (2015)",
+        "Scientific software",
+        "Bootstrapping-based extraction from full text",
+        "Software mentions and citations"
+      ],
+      [
+        "Yu et al. (2015)",
+        "Biological databases",
+        "Dictionary matching in methods sections",
+        "Citation-derived database networks and main-path analysis"
+      ],
+      [
+        "Li and Yan (2018)",
+        "R packages",
+        "Dictionary-based identification in full text",
+        "Co-mention networks, centrality, and clustering"
+      ],
+      [
+        "Wang and Zhang (2020)",
+        "NLP algorithms",
+        "Manually compiled dictionary and full-text matching",
+        "Counts of papers mentioning algorithms and temporal trends"
+      ],
+      [
+        "Yao et al. (2023)",
+        "Methods, datasets, and metrics",
+        "Named entity recognition in full text",
+        "Entity propagation and co-occurrence clustering"
+      ]
+    ],
+    "TableA1_task_examples": [
+      [
+        "First-level tasks",
+        "Second-level tasks"
+      ],
+      [
+        "Adversarial",
+        "Adversarial Attack; Adversarial Robustness; Adversarial Defense; Data Poisoning…"
+      ],
+      [
+        "Audio",
+        "Voice Conversion; Language Identification; Audio Classification; Music Generation; Sound Event Detection…"
+      ],
+      [
+        "Computer Code",
+        "NMT; Code Generation; Program Synthesis; Text-To-SQL…"
+      ],
+      [
+        "Computer Vision",
+        "Semantic Segmentation; Image Classification; Object Detection; Image Generation…"
+      ],
+      [
+        "Graphs",
+        "Link Prediction; Node Classification; Graph Embedding; Graph Classification; Graph Learning…"
+      ],
+      [
+        "Knowledge Base",
+        "Knowledge Graphs; Knowledge Graph Completion; Causal Discovery; Entity Alignment…"
+      ],
+      [
+        "Medical",
+        "Medical Image Segmentation; Drug Discovery; Medical Diagnosis; Synthetic Data Generation…"
+      ],
+      [
+        "Methodology",
+        "General Classification; Reinforcement Learning (RL); Representation Learning; Classification; BIG-bench Machine Learning…"
+      ],
+      [
+        "Miscellaneous",
+        "Transfer Learning; Recommendation Systems; Benchmarking; Fairness…"
+      ],
+      [
+        "Music",
+        "Music Generation; Music Information Retrieval; Music Source Separation; Music Transcription; Music Modeling…"
+      ],
+      [
+        "Natural Language Processing",
+        "Language Modelling; Question Answering; Machine Translation; Sentiment Analysis; Text Generation…"
+      ],
+      [
+        "Playing Games",
+        "Continuous Control; Atari Games; OpenAI Gym; Offline RL…"
+      ],
+      [
+        "Reasoning",
+        "Decision Making; Common Sense Reasoning; Visual Reasoning…"
+      ],
+      [
+        "Robots",
+        "Benchmarking; Motion Planning; Robot Navigation; Visual Odometry; Visual Navigation…"
+      ],
+      [
+        "Speech",
+        "Speech Recognition; Speech Synthesis; Speech Enhancement…"
+      ],
+      [
+        "Time Series",
+        "Time Series Analysis; Electroencephalogram (EEG); Time Series Forecasting; Imputation; Time Series Classification…"
+      ]
+    ],
+    "TableA2_method_examples": [
+      [
+        "Method area",
+        "Method collection",
+        "Methods"
+      ],
+      [
+        "General",
+        "Activation Functions",
+        "PAU; Lecun's Tanh; ASAF; AHAF; Shifted Softplus; StarReLU; Hard Swish; ELU; Softsign Activation; SiLU; CReLU; Smish; Phish; Softplus; Sigmoid Activation; Squared ReLU; TanhExp; ARiA; Gumbel Activation; GCU; SReLU; SSFG regularization; Hard Sigmoid; ShiLU; ReLUN; Maxout; Hardtanh Activation; NLSIG; RReLU; PELU; HardELiSH; Siren; ELiSH; LinComb; E-swish; ReGLU; SERLU; Hermite Activation; GeGLU; CoLU; Leaky ReLU; ScaledSoftSign; KAF; GELU; Mish; CosLU; GLU; ReLU; ReLU6; Rational Activation Function; EvoNorms; Swish; Smooth Step; SELU; PReLU; SwiGLU; NormLinComb; Tanh Activation; Serf; DELU; m-arcsinh; modReLU"
+      ],
+      [
+        "General",
+        "Regularization",
+        "R1 Regularization; Off-Diagonal Orthogonal Regularization; GMVAE; LCC; AutoDropout; Manifold Mixup; PGM; SRN; SVD Parameterization; ScheduledDropPath; Variational Dropout; Fraternal Dropout; DropConnect; Activation Regularization; SCN; Batch Nuclear-norm Maximization; Path Length Regularization; Shake-Shake Regularization; Recurrent Dropout; ShakeDrop; SpatialDropout; Embedding Dropout; Early Dropout; LayerDrop; Zoneout; Attention Dropout; Target Policy Smoothing; DropBlock; Euclidean Norm Regularization; GradDrop; rnnDrop; Orthogonal Regularization; Entropy Regularization; Discriminative Regularization; GAN Feature Matching; Adaptive Dropout; Stochastic Depth; LayerScale; DropPath; L1 Regularization; ALS; Weight Decay; Dropout; Early Stopping; Auxiliary Batch Normalization; Label Smoothing; Concrete Dropout; FIERCE; Spectral Dropout; Targeted Dropout; STTP; Temporal Activation Regularization; DropPathway"
+      ],
+      [
+        "Computer Vision",
+        "Convolutions",
+        "MixConv; Spatially Separable Convolution; DimConv; DCLS; Groupwise Point Convolution; Feature-Centric Voting; Sparse Convolutions; (2+1)D Convolution; Span-Based Dynamic Convolution; Submanifold Convolution; Selective Kernel Convolution; Deformable Kernel; SAC; CP conv; Pointwise Convolution; Active Convolution; Deformable Convolution; Attention-augmented Convolution; CondConv; Octave Convolution; PP-OCR; DynamicConv; Transposed convolution; Depthwise Convolution; PDC; Masked Convolution; DAU-ConvNet; CoordConv; ShapeConv; Grouped Convolution; CKConv; 3D Convolution; Depthwise Dilated Separable Convolution; Depthwise Separable Convolution; Invertible 1x1 Convolution; LightConv; 1D CNN; 1x1 Convolution; Dilated Convolution; Convolution; Invertible NxN Convolution"
+      ],
+      [
+        "Computer Vision",
+        "Pooling Operations",
+        "TFGW; Spatial Pyramid Pooling; Class-MLP; Max Pooling; Strip Pooling; RMS Pooling; Generalized Mean Pooling; Shape Adaptor; Adaptive Feature Pooling; Hopfield Layer; SoftPool; Center Pooling; Cascade Corner Pooling; Global Average Pooling; Corner Pooling; Average Pooling; Local Importance-based Pooling"
+      ],
+      [
+        "General",
+        "Feedforward Networks",
+        "DExTra; ALCN; Highway Network; Mix-FFN; Switch FFN; Position-Wise Feed-Forward Layer; NLSIG; Dense Connections; Adapter; Feedforward Network; Affine Operator; Boom Layer; VarImpVIANN; HyperNetwork; Linear Layer; Spatial Gating Unit"
+      ],
+      [
+        "General",
+        "Output Functions",
+        "EVM; Mixture of Softmaxes; Hierarchical Softmax; Heatmap; Adaptive Softmax; Mixture of Logistic Distributions; Sparsemax; Softmax; PAFs"
+      ],
+      [
+        "General",
+        "Normalization",
+        "Activation Normalization; Local Response Normalization; Weight Normalization; SRN; MPN; Gradient Normalization; Weight Demodulation; Online Normalization; SPADE; Adaptive Instance Normalization; Group Normalization; Instance Normalization; Decorrelated Batch Normalization; CInC Flow; Attentive Normalization; InPlace-ABN; Cosine Normalization; Virtual Batch Normalization; SyncBN; Spectral Normalization; BatchChannel Normalization; Mixture Normalization; ReZero; Instance-Level Meta Normalization; Conditional Instance Normalization; Batch Normalization; Switchable Normalization; Conditional Batch Normalization; Weight Standardization; LayerScale; EvoNorms; Sparse Switchable Normalization; SaBN; Layer Normalization; Mode Normalization; Local Contrast Normalization; Filter Response Normalization"
+      ],
+      [
+        "General",
+        "Learning Rate Schedules",
+        "Cosine Annealing; Step Decay; Linear Warmup With Linear Decay; Polynomial Rate Decay; Slanted Triangular Learning Rates; Linear Warmup With Cosine Annealing; Exponential Decay; Linear Warmup; 1cycle; Cosine Power Annealing; Cyclical Learning Rate Policy; Inverse Square Root Schedule"
+      ],
+      [
+        "General",
+        "Skip Connections",
+        "Concatenated Skip Connection; Residual Connection; Deactivable Skip Connection; Zero-padded Shortcut Connection"
+      ],
+      [
+        "Computer Vision",
+        "Image Data Augmentation",
+        "R-Mix; Population Based Augmentation; CutMix; Local Mixup; Image Scale Augmentation; AutoAugment; Random Grayscale; PAA; GridMask; Object Dropout; Random Scaling; Random Gaussian Blur; 3-Augment; Sample Redistribution; DG-Net; Copy-Paste; Random Resized Crop; Mixup; RandomRotate; Batchboost; Random Erasing; CutBlur; GPS; Random Horizontal Flip; ColorJitter; InstaBoost; Fast AutoAugment; RandAugment; AugMix; LFPNet (TTA); FMix; SuperpixelGridMasks; Cutout"
+      ]
+    ]
+  },
+  "retrieval_vocabulary": "SO = (\"international journal of information management\" OR \"journal of strategic information systems\" OR \"journal of knowledge management\" OR \"journal of management information systems\" OR \"information & management\" OR \"information systems journal\" OR \"mis quarterly\" OR \"government information quarterly\" OR \"information and organization\" OR \"information processing & management\" OR \"telematics and informatics\" OR \"journal of information technology\" OR \"journal of computer-mediated communication\" OR \"journal of enterprise information management\" OR \"information systems research\" OR \"journal of the association for information systems\" OR \"international journal of computer-supported collaborative learning\" OR \"journal of informetrics\" OR \"social science computer review\" OR \"information society\" OR \"journal of the american medical informatics association\" OR \"ethics and information technology\" OR \"mis quarterly executive\" OR \"journal of organizational and end user computing\" OR \"european journal of information systems\" OR \"information technology for development\" OR \"international journal of geographical information science\" OR \"information technology & people\" OR \"journal of global information technology management\" OR \"journal of information science\" OR \"qualitative health research\" OR \"scientometrics\" OR \"journal of the medical library association\" OR \"telecommunications policy\" OR \"journal of health communication\" OR \"knowledge management research & practice\" OR \"library & information science research\" OR \"research evaluation\" OR \"Journal of the Association for Information Science and Technology\" OR \"learned publishing\" OR \"college & research libraries\" OR \"library hi tech\" OR \"online information review\" OR \"profesional de la informacion\" OR \"health information and libraries journal\" OR \"information development\" OR \"journal of librarianship and information science\" OR \"aslib journal of information management\" OR \"library quarterly\" OR \"data base for advances in information systems\" OR \"journal of documentation\" OR \"data technologies and applications\" OR \"journal of academic librarianship\" OR \"information technology & management\" OR \"journal of scholarly publishing\" OR \"electronic library\" OR \"journal of global information management\" OR \"library and information science\" OR \"library trends\" OR \"revista espanola de documentacion cientifica\" OR \"malaysian journal of library & information science\" OR \"information technology and libraries\" OR \"portal-libraries and the academy\" OR \"knowledge organization\" OR \"scientist\" OR \"reference services review\" OR \"african journal of library archives and information science\" OR \"information research-an international electronic journal\" OR \"journal of the australian library and information association\" OR \"social science information sur les sciences sociales\" OR \"reference & user services quarterly\" OR \"transinformacao\" OR \"libri-international journal of libraries and information studies\" OR \"investigacion bibliotecologica\" OR \"library resources & technical services\" OR \"library journal\" OR \"serials review\" OR \"informacao & sociedade-estudos\" OR \"restaurator-international journal for the preservation of library and archival material\" OR \"law library journal\" OR \"econtent\" OR \"informacios tarsadalom\" OR \"information & culture\" OR \"zeitschrift fur bibliothekswesen und bibliographie\" OR \"canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie\" OR \"library collections acquisitions & technical services\") and PY=(2022 or 2021 or 2020 or 2019 or 2018 or 2017) and TS=(\"artificial intelligence\" OR \"Machine intelligence\" OR \"neural network*\" or \"machine learn*\" or \"deep learn*\" or \"natural language process*\" or \"image recognition\" or \"face recognition\" or \" computer vision\" or \"virtual assistant\" or \"visual search\" or \"text analysis\" or \"text classification\" or \"Word Embeddings\" or \"semantic search\" or \"semantic retrieval\" or \"predictive analysis\" or \"intelligent system\" or \"semantic web\" OR \"Robotic*\" OR \"thinking computer system\" OR \"fuzzy expert system*\" OR \"evolutionary computation\" OR \"hybrid intelligent system*\" OR \"Reinforcement learning\" OR \"Rule learning\" OR \"Supervised learning\" OR \"Support vector machine*\" OR \"Unsupervised learning\" OR \"Probabilistic graphical models\" OR \"Instance-based learning\" OR \"Latent representations\" OR \"Logical and relational learning\" OR \"Multi-task learning\" OR \"Bio-inspired approaches\" OR \"Classification and regression trees\" OR \"prediction model*\" OR \"AI\" OR \"decision tree*\" OR \"computational Intelligence\" OR \"Bayesian\" OR \"naive Bayes\" OR \"k-nearest neighbor\" OR \"decision support\" OR \"random forest\" OR \"SVM\" OR \"XGBoost\" OR \"AdaBoost\" OR \"gradient boosting machine*\" OR \"regression tree*\" OR \"least squares\" OR \"step wise regression\" OR \"linear model\" OR \"logistic regression*\" OR \"principal component analysis\" OR \"independent component analysis\" OR \"k-means clustering\" OR \"expert systems\" OR \"speech process*\" OR \"Sentiment Analysis\" or \"Machine Translation\" or \"Named Entity Recognition\" or \"Image Classification\" or \"Relation Extraction\")",
+  "snapshot_date": "2023-05-10",
+  "source_journals": 85
+}
